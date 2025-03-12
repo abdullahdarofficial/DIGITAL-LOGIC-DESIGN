@@ -1,1 +1,1 @@
-# DIGITAL-LOGIC-DESIGN
+🔢 **Digital Logic Design** – A comprehensive repository featuring lecture notes, textbook references, and study materials for Digital Logic Design. Includes chapters from *Logic & Computer Design Fundamentals* by Morris Mano, covering essential concepts like Boolean algebra, combinational circuits, sequential logic, and more. Perfect for students and learners in computer engineering! 🚀
